@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/copy_cmake.dir/src/main.cpp.o -o bin/copy_cmake 
