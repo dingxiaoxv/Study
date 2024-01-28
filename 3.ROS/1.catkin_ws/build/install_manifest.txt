@@ -1,0 +1,9 @@
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/_setup_util.py
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/env.sh
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/setup.bash
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/local_setup.bash
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/setup.sh
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/local_setup.sh
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/setup.zsh
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/local_setup.zsh
+/home/dyx/program/Study/3.ROS/1.catkin_ws/install/.rosinstall

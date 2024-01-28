@@ -1,0 +1,3 @@
+#include "add.h"
+
+double add(const double &val1, const double &val2) { return val1 + val2; }
